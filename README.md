@@ -1,2 +1,2 @@
-# Azubi-virtual-coffee-shop
-A task on auto scaling a virtual coffee shop on aws
+# A GUIDE TO CREATING A VIRTUAL COFFEE SHOP ON AWS
+FOLLOW THE BELOW GUIDE ON HOW TO CREATE AN AUTO SCALING FOR A VIRTUAL COFFEE SHOP
